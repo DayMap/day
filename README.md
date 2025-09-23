@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="http://daymap.github.io/.github">  
+<a href="https://daymap.github.io/.github">  
 <img src="https://img.shields.io/badge/⬇️_GET_INSTALLATION_INSTRUCTION-darkblue?style=for-the-badge&logo=apple" alt="Install DayMap on MacBook">  
 </a>  
 </div>  
